@@ -1,3 +1,3 @@
 # projetospring
-Mini projeto em spring de um gerenciador de RH
+Mini projeto em spring-boot de um gerenciador de RH
 
